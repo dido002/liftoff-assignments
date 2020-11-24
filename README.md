@@ -32,5 +32,6 @@ Include Technologies here
         Thymeleaf templates
 Include what you will need to learn here
     - MySQL for more data and web app development
+    _ how to connect different framework
 Link to your Trello board here
     - https://trello.com/b/U527nrXj/event-tracker
