@@ -25,10 +25,10 @@ Include Features here
      - display - list of gift and recipient 
  
 Include Technologies here
-        Java
-        Spring Boot
-        MySQL
-        Hibernate
+        Java,
+        Spring Boot,
+        MySQL,
+        Hibernate,
         Thymeleaf templates
 Include what you will need to learn here
     - MySQL for more data and web app development
