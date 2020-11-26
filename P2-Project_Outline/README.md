@@ -7,12 +7,31 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Gifter is a gift ideas tracker. Add friends and family members, then add gift 
+ideas to each person, through notes, or a direct link to the product 
+online. Allow for gifts to be split into categories (birthday, christmas,
+ Hanukkah, graduation, etc) and save each person's gift dates (birthday, 
+ anniversary, religious holiday preference, etc). Shows an alert when a gift date 
+ is coming up. Gifter also stores custom information about each recipient, such as 
+ clothing sizes, gaming platforms, preferred gift card locations. Gifts can be 
+ marked as purchased at any time.
 ### Features
 Include Features here
-### Technologies
+    - user login/out - user registration for online profile 
+    - create - creating gift recipient, add recipient, wish list for self, 
+     - delete - delete gift no needed in the future
+     - Edit - monitor inventory 
+     - post - add more list of gift 
+     - display - list of gift and recipient 
+ 
 Include Technologies here
-### What I'll Have to Learn
+        Java,
+        Spring Boot,
+        MySQL,
+        Hibernate,
+        Thymeleaf templates
 Include what you will need to learn here
-### Project Tracker
+    - MySQL for more data and web app development
+    _ how to connect different framework
 Link to your Trello board here
+    - https://trello.com/b/U527nrXj/event-tracker
