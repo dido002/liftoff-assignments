@@ -29,7 +29,7 @@ Include Technologies here
         Spring Boot,
         MySQL,
         Hibernate,
-        Thymeleaf templates
+        BootStrap
 Include what you will need to learn here
     - MySQL for more data and web app development
     _ how to connect different framework
