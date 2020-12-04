@@ -20,5 +20,5 @@ https://trello.com/b/U527nrXj/event-tracker
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
-https://github.com/LaunchCodeLiftoffProjects/team_gifter
+Include a link to your project on GitHub. https://github.com/LaunchCodeLiftoffProjects/team_gifter
+
