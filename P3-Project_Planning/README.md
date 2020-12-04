@@ -9,6 +9,7 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+file:///C:/Users/umer.dido/OneDrive%20-%20stlcop.edu/Desktop/Liftoff/Project/Gifter%20View_Edit%20Recipients.pdf
 
 ### Project Tracker
 
