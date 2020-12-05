@@ -14,6 +14,7 @@ Include at least 3 wireframes here, adding images or files to your repository as
 * Dashboard
 * View Recipients
 * Add Recipient
+* Data Model
 
 
 ### Project Tracker
