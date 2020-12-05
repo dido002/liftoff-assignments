@@ -9,6 +9,8 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+https://github.com/dido002/liftoff-assignments/blob/master/P3-Project_Planning/Gifter%20Recipients%20View.jpg
+
 
 * Landing Page
 * Dashboard
